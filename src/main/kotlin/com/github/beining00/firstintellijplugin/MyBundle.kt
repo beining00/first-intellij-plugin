@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.beining00.firstintellijplugin
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
